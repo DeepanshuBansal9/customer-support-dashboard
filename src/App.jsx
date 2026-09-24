@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Dashboard from "./Pages/Dashboard";
-import TicketDetails from "./pages/TicketDetails";
+import TicketDetails from "./Pages/TicketDetails";
 
 function App() {
   return (
